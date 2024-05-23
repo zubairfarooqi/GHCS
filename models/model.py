@@ -19,13 +19,13 @@ def _cfg(url='', **kwargs):
 	
 	default_cfgs = {
     'GHCS': _cfg(
-        url='https://github.com/GC/seg/model/nc12_femto.pth'),0
+        url='https://github.com/zubairfarooqi/GHCS/blob/main/models/nc12_femto.pth'),0
     'GHCS_tiny': _cfg(
-        url='https://github.com/GC/seg1/model/mm2_xc.pth'),
+        url='https://github.com/zubairfarooqi/GHCS/blob/main/models/mm2_xc.pth'),
     'GHCS_small': _cfg(
-        url='https://github.com/GC/seg2/model/xi1_xc1.pth'),
+        url='https://github.com/zubairfarooqi/GHCS/blob/main/models/xi1_xc1.pth'),
     'GHCS_base': _cfg(
-        url='https://github.com/GC/seg/class/model/GHCS.pth'),
+        url='https://github.com/zubairfarooqi/GHCS/blob/main/models/GHCS.pth'),
 					}
 					
 
